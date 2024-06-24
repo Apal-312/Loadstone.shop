@@ -1,0 +1,694 @@
+{
+  "products": [
+    {
+      "title": "FABIANA FILIPPI",
+      "description": "Футболка с принтом",
+      "price": 54900,
+      "image": "https://storage.yandexcloud.net/elyts-prod/resize_cache/1175173/7477a8eea16a049f04f0c06f751f1143/iblock/052/052a52e16d1d0d406419b5ed5b190fd4/1.jpg",
+      "category": "Футболки",
+      "id": 3
+    },
+    {
+      "title": "PESERICO",
+      "description": "Пиджак",
+      "price": 72030,
+      "image": "https://storage.yandexcloud.net/elyts-prod/iblock/fe3/fe38e5b5df1809f58b42a8ceac22fe6e/pidzhak_peserico_bezhevyy.jpeg",
+      "category": "Пиджак",
+      "id": 4
+    },
+    {
+      "title": "FABIANA FILIPPI",
+      "description": "Ботинки",
+      "price": 107900,
+      "image": "https://img.eobuwie.cloud/eob_product_512w_512h(1/2/5/4/125430cb0b7e504165628455cf12678001550bf6_03_0000302653270.jpg,jpg)/kotnikova-obuv-s-elastickym-prvkem-fabiana-filippi-asd273a902-vr1-0000302653270.jpg",
+      "category": "Обувь",
+      "id": 5
+    },
+    {
+      "title": "LUISA SPAGNOLI",
+      "description": "Платье-рубашка с вышивкой",
+      "price": 62300,
+      "image": "https://storage.yandexcloud.net/elyts-prod/iblock/d18/d18e09c34d0909656c2ccd51a49a86c4/plate_luisa_spagnoli_bezhevyy.jpg",
+      "category": "Платье",
+      "id": 6
+    },
+    {
+      "title": "MAGDA BUTRYM",
+      "description": "Ожерелье из жемчуга",
+      "price": 76900,
+      "image": "https://storage.yandexcloud.net/elyts-prod/resize_cache/1338506/7477a8eea16a049f04f0c06f751f1143/iblock/e94/e94aeb77106506a6a9dd3c28a1b774db/g2.jpg",
+      "category": "Женские аксессуары",
+      "id": 7
+    },
+    {
+      "title": "CHANEL",
+      "description": "Сумка Vanity Case",
+      "price": 496000,
+      "image": "https://storage.yandexcloud.net/elyts-prod/iblock/c95/c95784662154b454e81a6a20bfa0a611/sumka_chanel_chernyy.jpg",
+      "category": "Сумки",
+      "id": 8
+    },
+    {
+      "title": "MAGDA BUTRYM",
+      "description": "Босоножки с вязаным декором",
+      "price": 206900,
+      "image": "https://storage.yandexcloud.net/elyts-prod/resize_cache/1338614/7477a8eea16a049f04f0c06f751f1143/iblock/ef1/ef16dff90ba29a6c5773ff01c8a149a4/g3.jpg",
+      "category": "Обувь",
+      "id": 9
+    },
+    {
+      "title": "GODS OF FAME",
+      "description": "Укороченное поло из хлопка",
+      "price": 14500,
+      "image": "https://storage.yandexcloud.net/elyts-prod/iblock/291/291051bc2a714480d9658553463dc38b/ukorochennoe_polo_iz_khlopka_gods_of_fame_belyy.jpg",
+      "category": "Футболки",
+      "id": 10
+    },
+    {
+      "title": "LUISA SPAGNOLI",
+      "description": "Серьги-клипсы, золотые",
+      "price": 11900,
+      "image": "https://storage.yandexcloud.net/elyts-prod/resize_cache/1316844/7477a8eea16a049f04f0c06f751f1143/iblock/844/84491c0627cdc0456b46e275d91f9ff2/g2.jpg",
+      "category": "Женские аксессуары",
+      "id": 11
+    },
+    {
+      "title": "FABIANA FILIPPI",
+      "description": "Платье на запах",
+      "price": 170900,
+      "image": "https://storage.yandexcloud.net/elyts-prod/main/052/0527bd5e733793ca568b6bece8adcb94/17158492236645c8070d650.jpg",
+      "category": "Платье",
+      "id": 12
+    },
+    {
+      "title": "LUISA SPAGNOLI",
+      "description": "Крупное кольцо с камнями",
+      "price": 11900,
+      "image": "https://storage.yandexcloud.net/elyts-prod/resize_cache/1316812/7477a8eea16a049f04f0c06f751f1143/iblock/4b8/4b886d9ff81b5db9709a433f5308e93e/g2.jpg",
+      "category": "Женские аксессуары",
+      "id": 13
+    },
+    {
+      "title": "MAISON MAISSA",
+      "description": "Парфюмерная вода Jawhara By Maissa 50 мл",
+      "price": 15900,
+      "image": "https://storage.yandexcloud.net/elyts-prod/iblock/f48/f48536976d8f98fc1b0925e60b982d42/parfyumernaya_voda_maison_maissa_belyy.jpg",
+      "category": "Духи",
+      "id": 14
+    },
+    {
+      "title": "GCDS",
+      "description": "Твидовый костюм",
+      "price": 138530,
+      "image": "https://storage.yandexcloud.net/elyts-prod/iblock/b32/b3214b80253584148e02f49cde636ac6/kostyum_gcds_rozovyy.jpg",
+      "category": "Пиджак",
+      "id": 15
+    },
+    {
+      "title": "CEPUR",
+      "description": "Молочное платье миди с принтом вишня",
+      "price": 130450,
+      "image": "https://img.gepur.com/products/50000/46008/webp/origins/46008_8_1.webp?1718268543",
+      "category": "Платье",
+      "id": 16
+    },
+    {
+      "title": "CEPUR",
+      "description": "Голубая стеганная сумка с цепочкой",
+      "price": 10199,
+      "image": "https://img.gepur.com/products/45000/42265/webp/origins/42265_8.webp?1655476152",
+      "category": "Сумки",
+      "id": 17
+    },
+    {
+      "title": "Jacquemus",
+      "description": "Cумка Jacquemus",
+      "price": 12199,
+      "image": "https://i.pinimg.com/564x/f9/22/c6/f922c66abc613337cff9959770418111.jpg",
+      "category": "Сумки",
+      "id": 18
+    },
+    {
+      "title": "CEPUR",
+      "description": "Молочная соломенная сумка с круглыми ручками",
+      "price": 11199,
+      "image": "https://img.gepur.com/products/50000/46648/webp/origins/46648_1_1.webp?1714118086",
+      "category": "Сумки",
+      "id": 19
+    },
+    {
+      "title": "CEPUR",
+      "description": "Молочный сарафан на бретелях",
+      "price": 25999,
+      "image": "https://img.gepur.com/products/50000/46111/webp/origins/46111_2_1.webp?1715149524",
+      "category": "Платье",
+      "id": 20
+    },
+    {
+      "title": "CEPUR",
+      "description": "Молочный жакет с декоративными вырезами",
+      "price": 31579,
+      "image": "https://img.gepur.com/products/45000/41245/webp/origins/41245_1.webp?1662639812",
+      "category": "Пиджак",
+      "id": 21
+    },
+    {
+      "title": "CEPUR",
+      "description": "Мятный кроп-жакет с пуговицей",
+      "price": 20099,
+      "image": "https://img.gepur.com/products/45000/43612/webp/origins/43612_1_1.webp?1680164294",
+      "category": "Пиджак",
+      "id": 22
+    },
+    {
+      "title": "CEPUR",
+      "description": "Молочный жакет с декоративным поясом",
+      "price": 22390,
+      "image": "https://img.gepur.com/products/45000/43938/webp/origins/43938_1_1.webp?1682517687",
+      "category": "Пиджак",
+      "id": 23
+    },
+    {
+      "title": "CEPUR",
+      "description": "Голубые солнцезащитные очки геометрия",
+      "price": 5099,
+      "image": "https://img.gepur.com/products/50000/46900/webp/origins/46900_1_1.webp?1718269419",
+      "category": "Женские очки",
+      "id": 24
+    },
+    {
+      "title": "CEPUR",
+      "description": " Серебристые серьги с подвеской-сердцем",
+      "price": 30599,
+      "image": "https://img.gepur.com/products/50000/46394/webp/origins/46394_1_1.webp?1717501468",
+      "category": "Женские аксессуары",
+      "id": 25
+    },
+    {
+      "title": "CEPUR",
+      "description": "Серебристые серьги тройные кольца",
+      "price": 4049,
+      "image": "https://img.gepur.com/products/50000/46695/webp/origins/46695_1_1.webp?1714603503",
+      "category": "Женские аксессуары",
+      "id": 26
+    },
+    {
+      "title": "CEPUR",
+      "description": "Черная укроп-футболка с вырезом",
+      "price": 8090,
+      "image": "https://img.gepur.com/products/45000/43327/webp/origins/43327_1_1.webp?1684765908",
+      "category": "Футболки",
+      "id": 27
+    },
+    {
+      "title": "GEPUR",
+      "description": "Молочная футболка",
+      "price": 19345,
+      "image": "https://img.gepur.com/products/45000/44732/webp/origins/44732_1_1.webp?1685539415",
+      "category": "Футболки",
+      "id": 28
+    },
+    {
+      "title": " GEPUR",
+      "description": "Желтая трикотажная кроп-футболка",
+      "price": 20999,
+      "image": "https://img.gepur.com/products/45000/43681/webp/origins/43681_1_1.webp?1676914597",
+      "category": "Футболки",
+      "id": 29
+    },
+    {
+      "title": "GEPUR",
+      "description": "https://img.gepur.com/products/45000/43678/webp/origins/43678_1_1.webp?1676914565",
+      "price": 20999,
+      "image": "https://img.gepur.com/products/45000/43678/webp/origins/43678_1_1.webp?1676914565",
+      "category": "Футболки",
+      "id": 30
+    },
+    {
+      "title": "GEPUR",
+      "description": "Бежевая футболка оверсайз с рваными элементами",
+      "price": 20557,
+      "image": "https://img.gepur.com/products/50000/46727/webp/origins/46727_1_1.webp?1715178611",
+      "category": "Футболки",
+      "id": 31
+    },
+    {
+      "title": "GEPUR",
+      "description": "Молочный базовый шелковый топ",
+      "price": 10999,
+      "image": "https://img.gepur.com/products/40000/36618/webp/origins/36618_7.webp?1606396622",
+      "category": "Футболки",
+      "id": 32
+    },
+    {
+      "title": "GEPUR",
+      "description": "Голубое поло Gepur Sisters",
+      "price": 10719,
+      "image": "https://img.gepur.com/products/50000/45135/webp/origins/45135_1_1.webp?1695115131",
+      "category": "Футболки",
+      "id": 33
+    },
+    {
+      "title": "GEPUR",
+      "description": "Белая базовая футболка LOVER",
+      "price": 16599,
+      "image": "https://img.gepur.com/products/50000/46565/webp/origins/46565_3_1.webp?1714118020",
+      "category": "Футболки",
+      "id": 34
+    },
+    {
+      "title": "GEPUR",
+      "description": "Бежевый базовый шелковый топ",
+      "price": 15777,
+      "image": "https://img.gepur.com/products/40000/36082/webp/origins/36082_1.webp",
+      "category": "Футболки",
+      "id": 35
+    },
+    {
+      "title": "GEPUR",
+      "description": "Малиновая трикотажная футболка с драпировкой",
+      "price": 15666,
+      "image": "https://img.gepur.com/products/50000/45972/webp/origins/45972_1_1.webp?1713438053",
+      "category": "Футболки",
+      "id": 36
+    },
+    {
+      "title": "GEPUR",
+      "description": " Белая базовая футболка LOVE",
+      "price": 15999,
+      "image": "https://img.gepur.com/products/50000/46462/webp/origins/46462_1_1.webp?1712211906",
+      "category": "Футболки",
+      "id": 37
+    },
+    {
+      "title": "GEPUR",
+      "description": "Серая футболка оверсайз с рваными элементами",
+      "price": 6099,
+      "image": "https://img.gepur.com/products/50000/46726/webp/origins/46726_1_1.webp?1715178571",
+      "category": "Футболки",
+      "id": 38
+    },
+    {
+      "title": "GEPUR",
+      "description": "Черная футболка оверсайз с рваными элементами",
+      "price": 6099,
+      "image": "https://img.gepur.com/products/50000/46636/webp/origins/46636_1_1.webp?1715178479",
+      "category": "Футболки",
+      "id": 39
+    },
+    {
+      "title": "GEPUR",
+      "description": "Базовая белая футболка 'Незалежна'",
+      "price": null,
+      "image": "https://img.gepur.com/products/45000/42674/webp/origins/42674_1.webp?1663226056",
+      "category": "Футболки",
+      "id": 40
+    },
+    {
+      "title": "GEPUR",
+      "description": "Розовое поло Gepur Sisters",
+      "price": 8099,
+      "image": "https://img.gepur.com/products/50000/45134/webp/origins/45134_1_1.webp?1695115112",
+      "category": "Футболки",
+      "id": 41
+    },
+    {
+      "title": "GEPUR",
+      "description": "Белая кроп-футболка с принтом Душа",
+      "price": 13999,
+      "image": "https://img.gepur.com/products/50000/46428/webp/origins/46428_1_1.webp?1713438428",
+      "category": "Футболки",
+      "id": 42
+    },
+    {
+      "title": "GEPUR",
+      "description": "Бежевая трикотажная футболка",
+      "price": 13450,
+      "image": "https://img.gepur.com/products/50000/46108/webp/origins/46108_1_1.webp?1708427132",
+      "category": "Футболки",
+      "id": 43
+    },
+    {
+      "title": "GEPUR",
+      "description": "Белая базовая футболка оверсайз",
+      "price": 14999,
+      "image": "https://img.gepur.com/products/50000/46684/webp/origins/46684_1_1.webp?1718268979",
+      "category": "Футболки",
+      "id": 44
+    },
+    {
+      "title": "GEPUR",
+      "description": "Белая футболка оверсайз с принтом Душа",
+      "price": 12999,
+      "image": "https://img.gepur.com/products/50000/46402/webp/origins/46402_1_1.webp?1713438146",
+      "category": "Футболки",
+      "id": 45
+    },
+    {
+      "title": "GEPUR",
+      "description": "Молочная хлопковая кроп-футболка",
+      "price": 15999,
+      "image": "https://img.gepur.com/products/50000/46683/webp/origins/46683_1_1.webp?1718268969",
+      "category": "Футболки",
+      "id": 46
+    },
+    {
+      "title": "GEPUR",
+      "description": "Черный базовый шелковый топ",
+      "price": 10778,
+      "image": "https://img.gepur.com/products/40000/36081/webp/origins/36081_1.webp",
+      "category": "Футболки",
+      "id": 47
+    },
+    {
+      "title": "GEPUR",
+      "description": "Фиолетовая трикотажная кроп-футболка",
+      "price": 20999,
+      "image": "https://img.gepur.com/products/45000/43680/webp/origins/43680_1_1.webp?1676914588",
+      "category": "Футболки",
+      "id": 48
+    },
+    {
+      "title": "GEPUR",
+      "description": "Голубая сумка из экокожи со съемным ремнем",
+      "price": 13455,
+      "image": "https://img.gepur.com/products/50000/46902/webp/origins/46902_1_1.webp?1718180097",
+      "category": "Сумки",
+      "id": 49
+    },
+    {
+      "title": "GuS ",
+      "description": "Белая сумка из кожи. Крокодиловый паттерн",
+      "price": 17800,
+      "image": "https://i.pinimg.com/564x/17/f4/f1/17f4f1951018d3ac97b40307c56f76ab.jpg",
+      "category": "Сумки",
+      "id": 50
+    },
+    {
+      "title": "BAGuette ",
+      "description": "Сумка нежнейшего цвета",
+      "price": 12300,
+      "image": "https://i.pinimg.com/564x/a4/04/d7/a404d7810a88767313f7af077e180c31.jpg",
+      "category": "Сумки",
+      "id": 51
+    },
+    {
+      "title": "",
+      "description": "Pu Lattice Chain",
+      "price": null,
+      "image": "https://i.pinimg.com/564x/8e/78/7e/8e787ec6e7199e969d89941d583aaa32.jpg",
+      "category": "Сумки",
+      "id": 52
+    },
+    {
+      "title": "LUOFENG",
+      "description": "Нежная сумка",
+      "price": 12000,
+      "image": "https://i.pinimg.com/564x/62/c5/fa/62c5fa4381a272670ee0fb05438b1b3f.jpg",
+      "category": "Сумки",
+      "id": 53
+    },
+    {
+      "title": "GEPUR",
+      "description": "Сумка с жемчугами",
+      "price": 10000,
+      "image": "https://i.pinimg.com/736x/fe/c1/41/fec1413ebbcc814496d0a4ab79a3990c.jpg",
+      "category": "Сумки",
+      "id": 54
+    },
+    {
+      "title": "GEPUR",
+      "description": " Сумка с сердечкой",
+      "price": 12000,
+      "image": "https://i.pinimg.com/736x/71/54/c9/7154c94100cb824243933e199cb3d741.jpg",
+      "category": "Сумки",
+      "id": 55
+    },
+    {
+      "title": "GEPUR",
+      "description": " Бежевое сатиновое платье миди",
+      "price": 25999,
+      "image": "https://img.gepur.com/products/50000/46673/webp/origins/46673_1_1.webp?1718268939",
+      "category": "Платье",
+      "id": 56
+    },
+    {
+      "title": "GEPUR",
+      "description": " Молочное футлярное платье с корсетом",
+      "price": 14888,
+      "image": "https://img.gepur.com/products/50000/46032/webp/origins/46032_1_1.webp?1717501164",
+      "category": "Платье",
+      "id": 57
+    },
+    {
+      "title": "GEPUR",
+      "description": "Сатиновое розовое платье макси на бретелях",
+      "price": 23999,
+      "image": "https://img.gepur.com/products/50000/45952/webp/origins/45952_1_1.webp?1717500988",
+      "category": "Платье",
+      "id": 58
+    },
+    {
+      "title": "GEPUR",
+      "description": "Сарафан макси с ярким лимонным принтом",
+      "price": 39500,
+      "image": "https://img.gepur.com/products/50000/46749/webp/origins/46749_1_1.webp?1718346454",
+      "category": "Платье",
+      "id": 59
+    },
+    {
+      "title": "GEPUR",
+      "description": "Белое платье с пышным рукавом",
+      "price": 31999,
+      "image": "https://img.gepur.com/products/45000/41809/webp/origins/41809_1.webp?1654589933",
+      "category": "Платье",
+      "id": 60
+    },
+    {
+      "title": "GEPUR",
+      "description": "Бежевое платье мини с поясом",
+      "price": 19999,
+      "image": "https://img.gepur.com/products/50000/46236/webp/origins/46236_1_1.webp?1714117924",
+      "category": "Платье",
+      "id": 61
+    },
+    {
+      "title": "GEPUR",
+      "description": " Черное платье миди из батиста",
+      "price": 24567,
+      "image": "https://img.gepur.com/products/50000/46237/webp/origins/46237_1_1.webp?1714117927",
+      "category": "Платье",
+      "id": 62
+    },
+    {
+      "title": "Loro Piana",
+      "description": "Женская обувь",
+      "price": 10200,
+      "image": "https://i.pinimg.com/564x/dd/01/8b/dd018baf6aac9e646b5d507ad35ab490.jpg",
+      "category": "Обувь",
+      "id": 63
+    },
+    {
+      "title": "GEPUR",
+      "description": "Женские туфли лодочки с бантом",
+      "price": 12300,
+      "image": "https://i.pinimg.com/736x/68/e9/48/68e9480f8e1ebd27cbb160ed1d38a6d0.jpg",
+      "category": "Обувь",
+      "id": 64
+    },
+    {
+      "title": "GEPUR",
+      "description": "Кожаные босоножки",
+      "price": 10100,
+      "image": "https://i.pinimg.com/736x/dc/c5/2b/dcc52bb711a586bdee0959fd89d3f8dc.jpg",
+      "category": "Обувь",
+      "id": 65
+    },
+    {
+      "title": "GEPUR",
+      "description": "Босоножки на каблуке",
+      "price": 9800,
+      "image": "https://i.pinimg.com/564x/02/d6/94/02d69430d04a56f8b1742e43713a9b21.jpg",
+      "category": "Обувь",
+      "id": 66
+    },
+    {
+      "title": "GEPUR",
+      "description": "Белый однобортный пиджак",
+      "price": 31900,
+      "image": "https://img.gepur.com/products/45000/44668/webp/origins/44668_3_1.webp?1686655218",
+      "category": "Пиджак",
+      "id": 67
+    },
+    {
+      "title": "GEPUR",
+      "description": "Свободный жакет зеленого оттенка",
+      "price": 25099,
+      "image": "https://img.gepur.com/products/45000/43066/webp/origins/43066_1_1.webp?1678810409",
+      "category": "Пиджак",
+      "id": 68
+    },
+    {
+      "title": "GEPUR",
+      "description": "Кроп-жакет лимонного оттенка с пуговицей",
+      "price": 20099,
+      "image": "https://img.gepur.com/products/45000/43613/webp/origins/43613_1_1.webp?1680164308",
+      "category": "Пиджак",
+      "id": 69
+    },
+    {
+      "title": "GEPUR",
+      "description": "Цепочка женская",
+      "price": 8900,
+      "image": "https://i.pinimg.com/564x/23/34/c7/2334c72cc37f198dd5fc4349a4498a4a.jpg",
+      "category": "Женские аксессуары",
+      "id": 70
+    },
+    {
+      "title": "GEPUR",
+      "description": "Цепочки",
+      "price": 7400,
+      "image": "https://i.pinimg.com/564x/1b/0f/b5/1b0fb5707c4da9967bba942e92eebc29.jpg",
+      "category": "Женские аксессуары",
+      "id": 71
+    },
+    {
+      "title": "GEPUR",
+      "description": "Чокер с кулоном сердце",
+      "price": 6700,
+      "image": "https://i.pinimg.com/564x/06/42/fa/0642faf1b6c770350063e681c3c98fc6.jpg",
+      "category": "Женские аксессуары",
+      "id": 72
+    },
+    {
+      "title": "GEPUR",
+      "description": "Женские часы",
+      "price": 12000,
+      "image": "https://i.pinimg.com/564x/d5/e4/32/d5e432c8dfc26e5c2234d5958af1c369.jpg",
+      "category": "Женские аксессуары",
+      "id": 73
+    },
+    {
+      "title": " GEPUR",
+      "description": "Кварцевые женские часы",
+      "price": 14000,
+      "image": "https://i.pinimg.com/564x/64/d7/93/64d7932c75a22139650f9a9cbcb168f6.jpg",
+      "category": "Женские аксессуары",
+      "id": 74
+    },
+    {
+      "title": "Miss Dior",
+      "description": "Женские духи",
+      "price": 13500,
+      "image": "https://i.pinimg.com/564x/57/57/06/57570607d27539fc42455b895f8cd7f8.jpg",
+      "category": "Духи",
+      "id": 75
+    },
+    {
+      "title": "MOSCHINO Toy 2 Bubble Gum",
+      "description": "Нежные духи",
+      "price": 10250,
+      "image": "https://i.pinimg.com/564x/b1/12/e2/b112e23da75288d0417cfbb04a542215.jpg",
+      "category": "Духи",
+      "id": 76
+    },
+    {
+      "title": "Chanel",
+      "description": "Женские духи",
+      "price": 10100,
+      "image": "https://i.pinimg.com/564x/43/63/8d/43638d1d94fc9710339025b914dc7f4c.jpg",
+      "category": "Духи",
+      "id": 77
+    },
+    {
+      "title": "Erba Pura Eau de Parfum ",
+      "description": "Женский парфюм",
+      "price": 15700,
+      "image": "https://i.pinimg.com/736x/aa/3b/89/aa3b899b144d1f6c905f1ef4c7e34086.jpg",
+      "category": "Духи",
+      "id": 78
+    },
+    {
+      "title": "Dolce & Gabbana ",
+      "description": "Цветочные фруктовые духи",
+      "price": 16700,
+      "image": "https://i.pinimg.com/736x/9d/db/14/9ddb146314ac015c26f2931c3e4677e1.jpg",
+      "category": "Духи",
+      "id": 79
+    },
+    {
+      "title": "Trussardi My Scent ",
+      "description": "Аромат для женщин",
+      "price": 15200,
+      "image": "https://i.pinimg.com/564x/db/68/3d/db683d939c19ee3f94cbb21ad25dbae0.jpg",
+      "category": "Духи",
+      "id": 80
+    },
+    {
+      "title": "Richard White Chocola",
+      "description": "Восточные гурманские духи",
+      "price": 12400,
+      "image": "https://i.pinimg.com/736x/33/07/76/33077689b7272481a96c8a04e27e9cd5.jpg",
+      "category": "Духи",
+      "id": 81
+    },
+    {
+      "title": "Hermes Un Jardin Apres la Mousson",
+      "description": "Аромат со свежим шлейфом",
+      "price": 13450,
+      "image": "https://i.pinimg.com/736x/20/59/13/205913dd1a60242e3668034d43e629a5.jpg",
+      "category": "Духи",
+      "id": 82
+    },
+    {
+      "title": "GEPUR",
+      "description": "Женские очки",
+      "price": 4500,
+      "image": "https://i.pinimg.com/564x/64/5b/78/645b780b51dfa1afaaab6e36e96fbc51.jpg",
+      "category": "Женские очки",
+      "id": 83
+    },
+    {
+      "title": "GEPUR",
+      "description": "Синие очки с овальными линзами",
+      "price": 4000,
+      "image": "https://img.gepur.com/products/50000/46476/webp/origins/46476_1_1.webp?1712650333",
+      "category": "Женские очки",
+      "id": 84
+    }
+  ],
+  "category": [
+    {
+      "name": "Сумки",
+      "id": 1
+    },
+    {
+      "name": "Платье",
+      "id": 2
+    },
+    {
+      "name": "Обувь",
+      "id": 3
+    },
+    {
+      "name": "Пиджак",
+      "id": 4
+    },
+    {
+      "name": "Женские аксессуары",
+      "id": 5
+    },
+    {
+      "name": "Футболки",
+      "id": 6
+    },
+    {
+      "name": "Духи",
+      "id": 7
+    },
+    {
+      "name": "Женские очки",
+      "id": 8
+    }
+  ]
+}
