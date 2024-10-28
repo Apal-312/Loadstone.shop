@@ -18,4 +18,4 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: https://apal-312.github.io/Loadstone.shop/
+          server-dir: /public_html/Loadstone.shop
