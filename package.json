@@ -1,7 +1,7 @@
 {
   "name": "Loadstone.shop",
   "version": "0.1.0",
-    "homepage": "https://apal-312.github.io/Loadstone.shop",
+  "homepage": "https://apal-312.github.io/Loadstone.shop",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
