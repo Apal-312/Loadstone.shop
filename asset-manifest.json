@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Loadstone.shop/static/css/main.770479e2.css",
-    "main.js": "/Loadstone.shop/static/js/main.6446301a.js",
+    "main.js": "/Loadstone.shop/static/js/main.8867aab4.js",
     "static/media/bcgr.svg": "/Loadstone.shop/static/media/bcgr.02f58ec064e540b6d986.svg",
     "static/media/image 14.svg": "/Loadstone.shop/static/media/image 14.a7fb2ef2847f12ce9946bdd918e07b88.svg",
     "static/media/image 12.svg": "/Loadstone.shop/static/media/image 12.8254efe15372433ffe3a66fa1d31c18a.svg",
@@ -15,10 +15,10 @@
     "index.html": "/Loadstone.shop/index.html",
     "static/media/star2.svg": "/Loadstone.shop/static/media/star2.9cd8e2b255f5b5991ae5302793d47fb5.svg",
     "main.770479e2.css.map": "/Loadstone.shop/static/css/main.770479e2.css.map",
-    "main.6446301a.js.map": "/Loadstone.shop/static/js/main.6446301a.js.map"
+    "main.8867aab4.js.map": "/Loadstone.shop/static/js/main.8867aab4.js.map"
   },
   "entrypoints": [
     "static/css/main.770479e2.css",
-    "static/js/main.6446301a.js"
+    "static/js/main.8867aab4.js"
   ]
 }
